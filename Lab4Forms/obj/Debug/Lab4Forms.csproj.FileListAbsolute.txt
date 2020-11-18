@@ -1,0 +1,12 @@
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\bin\Debug\Lab4Forms.exe.config
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\bin\Debug\Lab4Forms.exe
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\bin\Debug\Lab4Forms.pdb
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.Form1.resources
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.Properties.Resources.resources
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.exe
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.pdb
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.Matrix.resources
+C:\Users\bogda\source\repos\Lab4Forms\Lab4Forms\obj\Debug\Lab4Forms.Aphine.resources
