@@ -16,7 +16,6 @@ namespace Lab4Forms
         {
             InitializeComponent();
         }
-        string encrypted_text;
         StringBuilder inputStringBuilder;
         private Dictionary<string, double> frequency = new Dictionary<string, double>();
         List<char> forbiddenCharacters = new List<char>()
@@ -34,7 +33,7 @@ namespace Lab4Forms
 
         private void button1_Click(object sender, EventArgs e)
         { 
-            richTextBox2.Text = encrypted_text;
+           
             if (string.IsNullOrEmpty(richTextBox1.Text))
             {
                 MessageBox.Show("Text is missing");
@@ -58,7 +57,7 @@ namespace Lab4Forms
         private void button2_Click(object sender, EventArgs e)
         {
            
-            richTextBox2.Text = encrypted_text;
+           
             
             int count = 0;
             inputStringBuilder = new StringBuilder(richTextBox1.Text);

@@ -29,6 +29,7 @@ namespace Lab4Forms
         Dictionary<char, int> openWith;
         public Dictionary<string, int> bigram;
         Dictionary<string, int> trigram;
+        string signs = " 1234567890:;'*/?,.!{}[]—-…\"\n\r";
 
         int total = 0;
         int total_Bigram = 0;
@@ -56,8 +57,7 @@ namespace Lab4Forms
            
             int i = 0;
             double probab = 0.0;
-            string signs = "1234567890:;'*/?,.!{}[]—-…\"\n\r";
-
+          
             openWith = new Dictionary<char, int>();
             openWith.Clear();
             chart1.Series["S1"].Points.Clear();
@@ -95,7 +95,7 @@ namespace Lab4Forms
             double probab = 0.0;
             byte j = 0;
             string text = "";
-            string signs = ":;'/?,.!-\"\n\r ";
+
             string a = "";
             string b = "";
 
@@ -139,7 +139,7 @@ namespace Lab4Forms
             double probab = 0.0;
             byte j = 0;
             string text = "";
-            string signs = ":;'/?,.!-\"\n\r ";
+
             string a = "";
             string b = "";
             string c = "";
